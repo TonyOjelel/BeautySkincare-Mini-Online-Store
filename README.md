@@ -1,2 +1,3 @@
-# D-Beauty-Mini-Online-Store
-D-Beauty-Mini Online Store
+# BeautySkincare-Mini-Online-Store
+
+BeautySkincare is a fully responsive ecommerce website, maximum compatiblities in all mobile devices, built using HTML, CSS, and JavaScript.
